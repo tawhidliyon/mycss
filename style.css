@@ -1,0 +1,180 @@
+
+body
+{
+    
+    margin: 0;
+    text-align: center;
+    font-family: 'Patua One', cursive;;
+    
+}
+
+
+h1
+{
+    width: 50%;
+    margin: 25px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.25em;
+    color: #b1a0fb;
+}
+h2
+{
+    font-weight: normal;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    position: relative;
+    bottom: 15px;
+    color: #66BFBF;
+}
+h3
+{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.top
+{
+    
+    position: relative;
+    padding-top: 75px;
+    
+}
+
+
+.topcloud
+{
+    position: absolute;
+    right: 470px;
+    top: 20px;
+   height: 75px;
+   
+
+}
+
+.bottomcloud
+{
+ position: absolute;
+ left: 500px;
+ top: 240px;
+ height: 75px;
+}
+.mountain
+{
+    position: relative;
+    top: 15px;
+    width: 75%;
+    margin-bottom: 12px;
+   
+}
+.skill-row
+{
+    position: relative;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+
+}
+.games
+{
+    width: 35%;
+    float: right;
+    position: relative;
+    bottom: -20px;
+    left: 20px;
+
+}
+
+.watching
+{
+    width: 25%;
+    float: left;
+    position: relative;
+    bottom: -20px;
+    right: 20px;
+    
+}
+hr
+{
+   
+    border-top: 3px dotted gray;
+    border-bottom: 0px;
+    height: 3px;
+    width: 80%;
+}
+
+.Green3D {
+    background: #4EE1E1;
+    background-image: -webkit-linear-gradient(top, #4EE1E1, #ACDB36);
+    background-image: -moz-linear-gradient(top, #4EE1E1, #ACDB36);
+    background-image: -ms-linear-gradient(top, #4EE1E1, #ACDB36);
+    background-image: -o-linear-gradient(top, #4EE1E1, #ACDB36);
+    background-image: -webkit-gradient(to bottom, #4EE1E1, #ACDB36);
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    width: 88px;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 4px 4px 6px 0 #000000;
+    -moz-box-shadow: 4px 4px 6px 0 #000000;
+    box-shadow: 4px 4px 6px 0 #000000;
+    text-shadow: 4px 4px 5px #000000;
+    border: solid #0D772A 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .Green3D:hover {
+    border: solid #0D772A 1px;
+    background: #0B5724;
+    background-image: -webkit-linear-gradient(top, #0B5724, #3DF670);
+    background-image: -moz-linear-gradient(top, #0B5724, #3DF670);
+    background-image: -ms-linear-gradient(top, #0B5724, #3DF670);
+    background-image: -o-linear-gradient(top, #0B5724, #3DF670);
+    background-image: -webkit-gradient(to bottom, #0B5724, #3DF670);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.top
+{
+    background-color: #d4e3ff;
+    position: relative;
+    
+}
+
+.bottom
+{
+    background-color: #fdb5a6;
+    margin-top: 25px;
+}
+.facebook
+{
+    position:absolute;
+    left: 25em;
+    font-size: 20px;
+}
+.instagram
+{
+    position: absolute;
+    right: 25em;
+    font-size: 20px;
+}
+.middle
+{
+position: relative;
+top: 20px;
+background-color: #FCE2AE;
+
+}
+
